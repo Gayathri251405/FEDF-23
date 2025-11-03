@@ -1,0 +1,10 @@
+{
+  "protein": { "label": "Protein", "goal": 50, "unit": "g" },
+  "iron": { "label": "Iron", "goal": 18, "unit": "mg" },
+  "calcium": { "label": "Calcium", "goal": 1000, "unit": "mg" },
+  "vitamin_c": { "label": "Vitamin C", "goal": 75, "unit": "mg" },
+  "vitamin_a": { "label": "Vitamin A", "goal": 900, "unit": "mcg" },
+  "fiber": { "label": "Fiber", "goal": 25, "unit": "g" },
+  "carbs": { "label": "Carbohydrates", "goal": 275, "unit": "g" },
+  "fat": { "label": "Fat", "goal": 70, "unit": "g" }
+}
